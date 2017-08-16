@@ -1,0 +1,34 @@
+body {
+  font-family: monospace;
+}
+
+a, a:hover, a:visited, a:focus, a:active {
+  text-decoration: none;
+  color: black;
+}
+
+pre{
+  text-align: center;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  /* Set the hr color */
+  color: #222;
+  /* old IE */
+  background-color: #222;
+}
+
+thead{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+table{
+  font-size: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: separate;
+  border-spacing: 12px;
+}
