@@ -726,6 +726,12 @@
         "genero": "Ensaios"
     },
     {
+        "livro": "Dez Pontos do Fascismo - Oswald Mosley",
+        "download": "https://www.dropbox.com/s/scl26uy3jba6lof/dez%20pontos%20do%20fascismo.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Política"
+    },
+    {
         "livro": "Dicionario Juridico Brasileiro - Washington dos Santos",
         "download": "https://mega.nz/#!dKZQGYIb!FSoDpihgtsBpdeasiWFK0jWpe3in9ZQvJe0aPfB6EAo",
         "idioma": "PT-BR",
@@ -1230,6 +1236,12 @@
         "genero": "Matemática"
     },
     {
+        "livro": "Meditações - Marco Aurélio",
+        "download": "https://www.dropbox.com/s/v8e6hq3mpcap10v/Medita%C3%A7%C3%B5es%20-%20Marco%20Aur%C3%A9lio.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Filosofia"
+    },
+    {
         "livro": "Mein Kampf - Adolf Hitler",
         "download": "https://mega.nz/#!EPZWkJBA!Af3919qHjFKECxG-KE1Pm6osTCzZ6pqBI7kBlTJIAP8",
         "idioma": "PT-BR",
@@ -1584,6 +1596,12 @@
         "genero": "Religião"
     },
     {
+        "livro": "O Martelo do Patriota - Charles Chapel",
+        "download": "https://www.dropbox.com/s/5fh106z4j16zz2y/Martelo%20Do%20Patriota.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Política"
+    },
+    {
         "livro": "O Mensageiro Milionario - Brendon Burchard",
         "download": "https://mega.nz/#!xPIBEYgb!M7Ulkmt4WMNNecXzdm9h34ZWBnmAsbjhdDDqEHJY3vE",
         "idioma": "PT-BR",
@@ -1732,6 +1750,12 @@
         "download": "https://mega.nz/#!YfpwAK5L!hPk-nnEeImVgGahm5OHyZ4cYEK4VWx4eE0Qy2505X-U",
         "idioma": "PT-BR",
         "genero": "Fantasia"
+    },
+    {
+        "livro": "O Talmud Desmascarado - Reverendo I. B. Pranaitis",
+        "download": "https://www.dropbox.com/s/b047d62d228vfxo/O%20Talmud%20Desmascarado.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Religião"
     },
     {
         "livro": "O Teste do Psicopata: Uma viagem pela Indústria da Loucura - Jon Ronson",
@@ -2146,6 +2170,12 @@
         "download": "https://mega.nz/#!xLhRGaZB!iYcQ5ld4iaKQl_TH4mH6TDDlqIodUpvgDHWAjd6li2k",
         "idioma": "PT-BR",
         "genero": "HQs e Mangás"
+    },
+    {
+        "livro": "Um Grande Projeto Nacional - Enéas Carneiro",
+        "download": "https://www.dropbox.com/s/1qicxtdfeqzrs66/Grande%20Projeto%20Nacional%20%281994%29%20-%20%20En%C3%A9as%20Carneiro.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Política"
     },
     {
         "livro": "Um Jogador - Fiodor Dostoievski",
