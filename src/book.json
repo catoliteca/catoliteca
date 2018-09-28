@@ -630,6 +630,12 @@
         "genero": "Ensaios"
     },
     {
+        "livro": "Como Lidar Com Mulheres - Nessahan Alita",
+        "download": "https://www.dropbox.com/s/tfasuzs8q2dmzj0/Nessahan%20Alita%20-%201%20Como%20Lidar%20com%20Mulheres%20-%20livro%20verdadeiro.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Desenvolvimento Pessoal
+    },
+    {
         "livro": "Como o Google Funciona - Eric Schmidt",
         "download": "https://mega.nz/#!IG4VWQzS!QlYFgQlLedqg1TzeII-R0b7bG6P6j_RW0G8KSvY7TB0",
         "idioma": "PT-BR",
@@ -718,6 +724,12 @@
         "download": "https://mega.nz/#!cSxnmRYL!sb8zlgLZfyaqOEGrISwNpddyMKmBTbHe3NSLa4x-xTk",
         "idioma": "PT-BR",
         "genero": "Ensaios"
+    },
+    {
+        "livro": "Dez Pontos do Fascismo - Oswald Mosley",
+        "download": "https://www.dropbox.com/s/scl26uy3jba6lof/dez%20pontos%20do%20fascismo.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Política"
     },
     {
         "livro": "Dicionario Juridico Brasileiro - Washington dos Santos",
@@ -1224,6 +1236,12 @@
         "genero": "Matemática"
     },
     {
+        "livro": "Meditações - Marco Aurélio",
+        "download": "https://www.dropbox.com/s/v8e6hq3mpcap10v/Medita%C3%A7%C3%B5es%20-%20Marco%20Aur%C3%A9lio.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Filosofia"
+    },
+    {
         "livro": "Mein Kampf - Adolf Hitler",
         "download": "https://mega.nz/#!EPZWkJBA!Af3919qHjFKECxG-KE1Pm6osTCzZ6pqBI7kBlTJIAP8",
         "idioma": "PT-BR",
@@ -1403,6 +1421,12 @@
         "idioma": "PT-BR",
         "genero": "Filosofia"
     },
+    {
+        "livro": "O Brasil Em Perigo - Enéas Carneiro",
+        "download": "https://www.dropbox.com/s/xni6lrl01qcujan/O%20Brasil%20em%20Perigo%201996%20Eneas%20Carneiro.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Política"
+    }
     {
         "livro": "O Cérebro com Foco e Disciplina - Renato Alves",
         "download": "https://mega.nz/#!EWxSnSpS!1U19lH8MDbVONKuCaneNyNEvUUo7V2P7j4jd-4NNZa0",
@@ -1722,6 +1746,12 @@
         "genero": "Fantasia"
     },
     {
+        "livro": "O Talmud Desmascarado - Reverendo I. B. Pranaitis",
+        "download": "https://www.dropbox.com/s/b047d62d228vfxo/O%20Talmud%20Desmascarado.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Religião"
+    },
+    {
         "livro": "O Teste do Psicopata: Uma viagem pela Indústria da Loucura - Jon Ronson",
         "download": "https://mega.nz/#!EXR1nZTA!qhfwJiyzmANEhl-57aGL02zmYuLlXRQ4bY-QGwy3iTU",
         "idioma": "PT-BR",
@@ -1810,6 +1840,12 @@
         "download": "https://mega.nz/#!QOJ2BKAA!FgUFDHuznezfK-VdiNLKu5Hqkk86rGDgbisbOvpISrw",
         "idioma": "PT-BR",
         "genero": "Fantasia"
+    },
+    {
+        "livro": "O Martelo do Patriota - Charles Chapel",
+        "donwload": "https://www.dropbox.com/s/5fh106z4j16zz2y/Martelo%20Do%20Patriota.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Política",
     },
     {
         "livro": "Os Muito, Muito Ricos e como Eles Chegaram Lá - Max Gunther",
@@ -2134,6 +2170,12 @@
         "download": "https://mega.nz/#!xLhRGaZB!iYcQ5ld4iaKQl_TH4mH6TDDlqIodUpvgDHWAjd6li2k",
         "idioma": "PT-BR",
         "genero": "HQs e Mangás"
+    },
+    {
+        "livro": "Um Grande Projeto Nacional - Enéas Carneiro",
+        "download": "https://www.dropbox.com/s/1qicxtdfeqzrs66/Grande%20Projeto%20Nacional%20%281994%29%20-%20%20En%C3%A9as%20Carneiro.pdf?dl=0",
+        "idioma": "PT-BR",
+        "genero": "Política"
     },
     {
         "livro": "Um Jogador - Fiodor Dostoievski",
