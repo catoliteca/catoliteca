@@ -29,6 +29,18 @@
         "idioma": "PT-BR",
         "genero": "Vida Espiritual"
     },
+      {
+        "livro": "A Oração - Santo Afonso Maria de Ligório",
+        "download": "https://mega.nz/file/j7YUWJgL#8tp1oMpxq7m8ahqu4s1P-Ft2lBTyQYMm2dyy_HpJTf0",
+        "idioma": "PT-BR",
+        "genero": "Religião"
+    },
+     {
+        "livro": "Quaresma de São Miguel",
+        "download": "https://mega.nz/file/T6xUkLwZ#Mfb57rFCk8kwpXx85PZZAmOvXZ_YJ5YbV_K6781Z_BY",
+        "idioma": "PT-BR",
+        "genero": "Orações"
+    },
     {
         "livro": "Batismo (Coleção Sacramentos) - Prof. Felipe Aquino",
         "download": "https://mega.nz/file/7nw2ESIL#DRquUJ6z3w8QhOuhDVjekF3E461iLLgE1bfWnGQiK1Q",
@@ -70,11 +82,5 @@
         "download": "https://mega.nz/file/m6ZVjAZT#k7XBp5hY9cXuggvDFLS1NtxtJsE4P6M-IWV0rg_FcAs",
         "idioma": "PT-BR",
         "genero": "Religião"
-    },
-    {
-        "livro": "Quaresma de São Miguel",
-        "download": "https://mega.nz/file/T6xUkLwZ#Mfb57rFCk8kwpXx85PZZAmOvXZ_YJ5YbV_K6781Z_BY",
-        "idioma": "PT-BR",
-        "genero": "Orações"
     }
 ]
